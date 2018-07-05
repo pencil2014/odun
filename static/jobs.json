@@ -1,0 +1,129 @@
+{
+  "jobs": [{
+    "value": "自由",
+    "label": "自由",
+    "children": [
+      {
+        "value":"体育",
+        "label":"体育"
+      },
+      {
+        "value":"个体户",
+        "label":"个体户"
+      },
+      {
+        "value":"模特",
+        "label":"模特"
+      },
+      {
+        "value":"自由撰稿人",
+        "label":"自由撰稿人"
+      },
+      {
+        "value":"艺术",
+        "label":"艺术"
+      },
+      {
+        "value":"修理工",
+        "label":"修理工"
+      },
+      {
+        "value":"牙科医生",
+        "label":"牙科医生"
+      },
+      {
+        "value":"理发师",
+        "label":"理发师"
+      },
+      {
+        "value":"无业",
+        "label":"无业"
+      },
+      {
+        "value":"其他",
+        "label":"其他"
+      }
+    ]
+  },
+  {
+    "value": "白领",
+    "label": "白领",
+    "children": [
+      {
+        "value":"教师",
+        "label":"教师"
+      },
+      {
+        "value":"医生",
+        "label":"医生"
+      },
+      {
+        "value":"金融",
+        "label":"金融"
+      },
+      {
+        "value":"会计",
+        "label":"会计"
+      },
+      {
+        "value":"律师",
+        "label":"律师"
+      },
+      {
+        "value":"普通职员",
+        "label":"普通职员"
+      },
+      {
+        "value":"秘书",
+        "label":"秘书"
+      },
+      {
+        "value":"管理人员",
+        "label":"管理人员"
+      },
+      {
+        "value":"工程师",
+        "label":"工程师"
+      },
+      {
+        "value":"工程师",
+        "label":"工程师"
+      },
+      {
+        "value":"其他",
+        "label":"其他"
+      }
+    ]
+  },
+  {
+    "value": "其他",
+    "label": "其他",
+    "children": [
+      {
+        "value":"企业老板",
+        "label":"企业老板"
+      },
+      {
+        "value":"商人",
+        "label":"商人"
+      },
+      {
+        "value":"企业家",
+        "label":"企业家"
+      },
+      {
+        "value":"公务员",
+        "label":"公务员"
+      },
+      {
+        "value":"科研人员",
+        "label":"科研人员"
+      },
+      {
+        "value":"学生",
+        "label":"学生"
+      }
+    ]
+  }
+  ]
+}
